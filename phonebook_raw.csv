@@ -1,5 +1,5 @@
 lastname,firstname,surname,organization,position,phone,email
-Иванов Иван Иванович,,,,"8 (495) 123-45-67",ivanov@mail.ru
+Иванов Иван Иванович,,,,,"8 (495) 123-45-67",ivanov@mail.ru
 Иванов,Иван,Иванович,,,+7(495)123-45-67,
-Козлов Петр,,,,ФНС,89991234567,kozlov@nalog.ru
+Козлов Петр,,,ФНС,,89991234567,kozlov@nalog.ru
 Козлов,Петр,,,Инспектор,,kozlov@nalog.ru
